@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "   ",
+        " ab",
+        "   "
+    ],
+    "key": {
+        "a": {"item": "minecraft:wheat_seeds"},
+        "b": {"item": "minecraft:bone_meal"}
+    },
+    "result": {
+        "item": "minecraft:wheat"
+    }
+}

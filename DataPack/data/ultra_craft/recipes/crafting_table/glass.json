@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "   ",
+        "aaa",
+        "aaa"
+    ],
+    "key": {
+        "a": {"item": "minecraft:glass_pane"}
+    },
+    "result": {
+        "item": "minecraft:glass"
+    }
+}
